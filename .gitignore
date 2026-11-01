@@ -1,0 +1,10 @@
+# Local database configuration
+config.php
+
+# Git files
+.git/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
